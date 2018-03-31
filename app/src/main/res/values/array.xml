@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="State">
+        <item>Select state</item>
+        <item>Bihar</item>
+        <item>Haryana</item>
+        <item>Karnataka</item>
+        <item>Kerala</item>
+        <item>Maharashtra</item>
+        <item>Manipur</item>
+    </string-array>
+</resources>
